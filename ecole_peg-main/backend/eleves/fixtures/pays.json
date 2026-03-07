@@ -1,0 +1,1618 @@
+[
+    {
+        "model": "eleves.pays",
+        "pk": 1,
+        "fields": {
+            "indicatif": "+93",
+            "nom": "Afghanistan"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 2,
+        "fields": {
+            "indicatif": "+244",
+            "nom": "Angola"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 3,
+        "fields": {
+            "indicatif": "+355",
+            "nom": "Albanie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 4,
+        "fields": {
+            "indicatif": "+376",
+            "nom": "Andorre"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 5,
+        "fields": {
+            "indicatif": "+971",
+            "nom": "Émirats arabes unis"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 6,
+        "fields": {
+            "indicatif": "+54",
+            "nom": "Argentine"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 7,
+        "fields": {
+            "indicatif": "+374",
+            "nom": "Arménie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 8,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "Antigua-et-Barbuda"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 9,
+        "fields": {
+            "indicatif": "+61",
+            "nom": "Australie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 10,
+        "fields": {
+            "indicatif": "+43",
+            "nom": "Autriche"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 11,
+        "fields": {
+            "indicatif": "+994",
+            "nom": "Azerbaïdjan"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 12,
+        "fields": {
+            "indicatif": "+257",
+            "nom": "Burundi"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 13,
+        "fields": {
+            "indicatif": "+32",
+            "nom": "Belgique"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 14,
+        "fields": {
+            "indicatif": "+229",
+            "nom": "Bénin"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 15,
+        "fields": {
+            "indicatif": "+226",
+            "nom": "Burkina Faso"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 16,
+        "fields": {
+            "indicatif": "+880",
+            "nom": "Bangladesh"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 17,
+        "fields": {
+            "indicatif": "+359",
+            "nom": "Bulgarie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 18,
+        "fields": {
+            "indicatif": "+973",
+            "nom": "Bahreïn"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 19,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "Bahamas"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 20,
+        "fields": {
+            "indicatif": "+387",
+            "nom": "Bosnie-Herzégovine"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 21,
+        "fields": {
+            "indicatif": "+375",
+            "nom": "Biélorussie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 22,
+        "fields": {
+            "indicatif": "+501",
+            "nom": "Belize"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 23,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "Bermudes"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 24,
+        "fields": {
+            "indicatif": "+591",
+            "nom": "Bolivie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 25,
+        "fields": {
+            "indicatif": "+55",
+            "nom": "Brésil"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 26,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "Barbade"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 27,
+        "fields": {
+            "indicatif": "+673",
+            "nom": "Brunéi"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 28,
+        "fields": {
+            "indicatif": "+975",
+            "nom": "Bhoutan"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 29,
+        "fields": {
+            "indicatif": "+267",
+            "nom": "Botswana"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 30,
+        "fields": {
+            "indicatif": "+236",
+            "nom": "République centrafricaine"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 31,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "Canada"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 32,
+        "fields": {
+            "indicatif": "+41",
+            "nom": "Suisse"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 33,
+        "fields": {
+            "indicatif": "+56",
+            "nom": "Chili"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 34,
+        "fields": {
+            "indicatif": "+86",
+            "nom": "Chine"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 35,
+        "fields": {
+            "indicatif": "+225",
+            "nom": "Côte d'Ivoire"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 36,
+        "fields": {
+            "indicatif": "+237",
+            "nom": "Cameroun"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 37,
+        "fields": {
+            "indicatif": "+243",
+            "nom": "République démocratique du Congo"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 38,
+        "fields": {
+            "indicatif": "+242",
+            "nom": "Congo"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 39,
+        "fields": {
+            "indicatif": "+57",
+            "nom": "Colombie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 40,
+        "fields": {
+            "indicatif": "+269",
+            "nom": "Comores"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 41,
+        "fields": {
+            "indicatif": "+238",
+            "nom": "Cap-Vert"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 42,
+        "fields": {
+            "indicatif": "+506",
+            "nom": "Costa Rica"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 43,
+        "fields": {
+            "indicatif": "+53",
+            "nom": "Cuba"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 44,
+        "fields": {
+            "indicatif": "+357",
+            "nom": "Chypre"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 45,
+        "fields": {
+            "indicatif": "+420",
+            "nom": "République tchèque"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 46,
+        "fields": {
+            "indicatif": "+49",
+            "nom": "Allemagne"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 47,
+        "fields": {
+            "indicatif": "+253",
+            "nom": "Djibouti"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 48,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "Dominique"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 49,
+        "fields": {
+            "indicatif": "+45",
+            "nom": "Danemark"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 50,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "République dominicaine"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 51,
+        "fields": {
+            "indicatif": "+213",
+            "nom": "Algérie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 52,
+        "fields": {
+            "indicatif": "+593",
+            "nom": "Équateur"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 53,
+        "fields": {
+            "indicatif": "+20",
+            "nom": "Égypte"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 54,
+        "fields": {
+            "indicatif": "+291",
+            "nom": "Érythrée"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 55,
+        "fields": {
+            "indicatif": "+34",
+            "nom": "Espagne"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 56,
+        "fields": {
+            "indicatif": "+372",
+            "nom": "Estonie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 57,
+        "fields": {
+            "indicatif": "+251",
+            "nom": "Éthiopie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 58,
+        "fields": {
+            "indicatif": "+358",
+            "nom": "Finlande"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 59,
+        "fields": {
+            "indicatif": "+679",
+            "nom": "Fidji"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 60,
+        "fields": {
+            "indicatif": "+33",
+            "nom": "France"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 61,
+        "fields": {
+            "indicatif": "+691",
+            "nom": "Micronésie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 62,
+        "fields": {
+            "indicatif": "+241",
+            "nom": "Gabon"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 63,
+        "fields": {
+            "indicatif": "+44",
+            "nom": "Royaume-Uni"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 64,
+        "fields": {
+            "indicatif": "+995",
+            "nom": "Géorgie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 65,
+        "fields": {
+            "indicatif": "+233",
+            "nom": "Ghana"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 66,
+        "fields": {
+            "indicatif": "+224",
+            "nom": "Guinée"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 67,
+        "fields": {
+            "indicatif": "+220",
+            "nom": "Gambie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 68,
+        "fields": {
+            "indicatif": "+245",
+            "nom": "Guinée-Bissau"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 69,
+        "fields": {
+            "indicatif": "+240",
+            "nom": "Guinée équatoriale"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 70,
+        "fields": {
+            "indicatif": "+30",
+            "nom": "Grèce"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 71,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "Grenade"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 72,
+        "fields": {
+            "indicatif": "+502",
+            "nom": "Guatemala"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 73,
+        "fields": {
+            "indicatif": "+592",
+            "nom": "Guyana"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 74,
+        "fields": {
+            "indicatif": "+504",
+            "nom": "Honduras"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 75,
+        "fields": {
+            "indicatif": "+385",
+            "nom": "Croatie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 76,
+        "fields": {
+            "indicatif": "+509",
+            "nom": "Haïti"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 77,
+        "fields": {
+            "indicatif": "+36",
+            "nom": "Hongrie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 78,
+        "fields": {
+            "indicatif": "+62",
+            "nom": "Indonésie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 79,
+        "fields": {
+            "indicatif": "+91",
+            "nom": "Inde"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 80,
+        "fields": {
+            "indicatif": "+353",
+            "nom": "Irlande"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 81,
+        "fields": {
+            "indicatif": "+98",
+            "nom": "Iran"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 82,
+        "fields": {
+            "indicatif": "+964",
+            "nom": "Irak"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 83,
+        "fields": {
+            "indicatif": "+354",
+            "nom": "Islande"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 84,
+        "fields": {
+            "indicatif": "+972",
+            "nom": "Israël"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 85,
+        "fields": {
+            "indicatif": "+39",
+            "nom": "Italie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 86,
+        "fields": {
+            "indicatif": "+962",
+            "nom": "Jordanie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 87,
+        "fields": {
+            "indicatif": "+81",
+            "nom": "Japon"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 88,
+        "fields": {
+            "indicatif": "+7",
+            "nom": "Kazakhstan"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 89,
+        "fields": {
+            "indicatif": "+254",
+            "nom": "Kenya"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 90,
+        "fields": {
+            "indicatif": "+996",
+            "nom": "Kirghizistan"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 91,
+        "fields": {
+            "indicatif": "+855",
+            "nom": "Cambodge"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 92,
+        "fields": {
+            "indicatif": "+686",
+            "nom": "Kiribati"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 93,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "Saint-Kitts-et-Nevis"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 94,
+        "fields": {
+            "indicatif": "+82",
+            "nom": "Corée du Sud"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 95,
+        "fields": {
+            "indicatif": "+965",
+            "nom": "Koweït"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 96,
+        "fields": {
+            "indicatif": "+856",
+            "nom": "Laos"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 97,
+        "fields": {
+            "indicatif": "+961",
+            "nom": "Liban"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 98,
+        "fields": {
+            "indicatif": "+231",
+            "nom": "Libéria"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 99,
+        "fields": {
+            "indicatif": "+218",
+            "nom": "Libye"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 100,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "Sainte-Lucie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 101,
+        "fields": {
+            "indicatif": "+423",
+            "nom": "Liechtenstein"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 102,
+        "fields": {
+            "indicatif": "+94",
+            "nom": "Sri Lanka"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 103,
+        "fields": {
+            "indicatif": "+266",
+            "nom": "Lesotho"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 104,
+        "fields": {
+            "indicatif": "+370",
+            "nom": "Lituanie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 105,
+        "fields": {
+            "indicatif": "+352",
+            "nom": "Luxembourg"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 106,
+        "fields": {
+            "indicatif": "+371",
+            "nom": "Lettonie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 107,
+        "fields": {
+            "indicatif": "+853",
+            "nom": "Macau"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 108,
+        "fields": {
+            "indicatif": "+212",
+            "nom": "Maroc"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 109,
+        "fields": {
+            "indicatif": "+377",
+            "nom": "Monaco"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 110,
+        "fields": {
+            "indicatif": "+373",
+            "nom": "Moldavie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 111,
+        "fields": {
+            "indicatif": "+261",
+            "nom": "Madagascar"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 112,
+        "fields": {
+            "indicatif": "+960",
+            "nom": "Maldives"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 113,
+        "fields": {
+            "indicatif": "+52",
+            "nom": "Mexique"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 114,
+        "fields": {
+            "indicatif": "+692",
+            "nom": "Îles Marshall"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 115,
+        "fields": {
+            "indicatif": "+389",
+            "nom": "Macédoine du Nord"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 116,
+        "fields": {
+            "indicatif": "+223",
+            "nom": "Mali"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 117,
+        "fields": {
+            "indicatif": "+356",
+            "nom": "Malte"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 118,
+        "fields": {
+            "indicatif": "+95",
+            "nom": "Myanmar"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 119,
+        "fields": {
+            "indicatif": "+382",
+            "nom": "Monténégro"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 120,
+        "fields": {
+            "indicatif": "+976",
+            "nom": "Mongolie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 121,
+        "fields": {
+            "indicatif": "+258",
+            "nom": "Mozambique"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 122,
+        "fields": {
+            "indicatif": "+222",
+            "nom": "Mauritanie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 123,
+        "fields": {
+            "indicatif": "+230",
+            "nom": "Maurice"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 124,
+        "fields": {
+            "indicatif": "+265",
+            "nom": "Malawi"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 125,
+        "fields": {
+            "indicatif": "+60",
+            "nom": "Malaisie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 126,
+        "fields": {
+            "indicatif": "+264",
+            "nom": "Namibie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 127,
+        "fields": {
+            "indicatif": "+687",
+            "nom": "Nouvelle-Calédonie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 128,
+        "fields": {
+            "indicatif": "+227",
+            "nom": "Niger"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 129,
+        "fields": {
+            "indicatif": "+234",
+            "nom": "Nigeria"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 130,
+        "fields": {
+            "indicatif": "+505",
+            "nom": "Nicaragua"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 131,
+        "fields": {
+            "indicatif": "+31",
+            "nom": "Pays-Bas"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 132,
+        "fields": {
+            "indicatif": "+47",
+            "nom": "Norvège"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 133,
+        "fields": {
+            "indicatif": "+977",
+            "nom": "Népal"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 134,
+        "fields": {
+            "indicatif": "+674",
+            "nom": "Nauru"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 135,
+        "fields": {
+            "indicatif": "+64",
+            "nom": "Nouvelle-Zélande"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 136,
+        "fields": {
+            "indicatif": "+968",
+            "nom": "Oman"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 137,
+        "fields": {
+            "indicatif": "+92",
+            "nom": "Pakistan"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 138,
+        "fields": {
+            "indicatif": "+507",
+            "nom": "Panama"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 139,
+        "fields": {
+            "indicatif": "+51",
+            "nom": "Pérou"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 140,
+        "fields": {
+            "indicatif": "+63",
+            "nom": "Philippines"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 141,
+        "fields": {
+            "indicatif": "+680",
+            "nom": "Palaos"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 142,
+        "fields": {
+            "indicatif": "+675",
+            "nom": "Papouasie-Nouvelle-Guinée"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 143,
+        "fields": {
+            "indicatif": "+48",
+            "nom": "Pologne"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 144,
+        "fields": {
+            "indicatif": "+850",
+            "nom": "Corée du Nord"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 145,
+        "fields": {
+            "indicatif": "+351",
+            "nom": "Portugal"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 146,
+        "fields": {
+            "indicatif": "+595",
+            "nom": "Paraguay"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 147,
+        "fields": {
+            "indicatif": "+970",
+            "nom": "Palestine"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 148,
+        "fields": {
+            "indicatif": "+689",
+            "nom": "Polynésie française"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 149,
+        "fields": {
+            "indicatif": "+974",
+            "nom": "Qatar"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 150,
+        "fields": {
+            "indicatif": "+40",
+            "nom": "Roumanie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 151,
+        "fields": {
+            "indicatif": "+7",
+            "nom": "Russie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 152,
+        "fields": {
+            "indicatif": "+250",
+            "nom": "Rwanda"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 153,
+        "fields": {
+            "indicatif": "+966",
+            "nom": "Arabie Saoudite"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 154,
+        "fields": {
+            "indicatif": "+249",
+            "nom": "Soudan"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 155,
+        "fields": {
+            "indicatif": "+221",
+            "nom": "Sénégal"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 156,
+        "fields": {
+            "indicatif": "+65",
+            "nom": "Singapour"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 157,
+        "fields": {
+            "indicatif": "+290",
+            "nom": "Sainte-Hélène"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 158,
+        "fields": {
+            "indicatif": "+677",
+            "nom": "Îles Salomon"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 159,
+        "fields": {
+            "indicatif": "+232",
+            "nom": "Sierra Leone"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 160,
+        "fields": {
+            "indicatif": "+503",
+            "nom": "Salvador"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 161,
+        "fields": {
+            "indicatif": "+378",
+            "nom": "Saint-Marin"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 162,
+        "fields": {
+            "indicatif": "+252",
+            "nom": "Somalie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 163,
+        "fields": {
+            "indicatif": "+508",
+            "nom": "Saint-Pierre-et-Miquelon"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 164,
+        "fields": {
+            "indicatif": "+381",
+            "nom": "Serbie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 165,
+        "fields": {
+            "indicatif": "+211",
+            "nom": "Soudan du Sud"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 166,
+        "fields": {
+            "indicatif": "+239",
+            "nom": "Sao Tomé-et-Principe"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 167,
+        "fields": {
+            "indicatif": "+597",
+            "nom": "Suriname"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 168,
+        "fields": {
+            "indicatif": "+421",
+            "nom": "Slovaquie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 169,
+        "fields": {
+            "indicatif": "+386",
+            "nom": "Slovénie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 170,
+        "fields": {
+            "indicatif": "+46",
+            "nom": "Suède"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 171,
+        "fields": {
+            "indicatif": "+268",
+            "nom": "Eswatini"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 172,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "Saint-Martin"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 173,
+        "fields": {
+            "indicatif": "+248",
+            "nom": "Seychelles"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 174,
+        "fields": {
+            "indicatif": "+963",
+            "nom": "Syrie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 175,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "Îles Turques-et-Caïques"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 176,
+        "fields": {
+            "indicatif": "+235",
+            "nom": "Tchad"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 177,
+        "fields": {
+            "indicatif": "+228",
+            "nom": "Togo"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 178,
+        "fields": {
+            "indicatif": "+66",
+            "nom": "Thaïlande"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 179,
+        "fields": {
+            "indicatif": "+992",
+            "nom": "Tadjikistan"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 180,
+        "fields": {
+            "indicatif": "+993",
+            "nom": "Turkménistan"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 181,
+        "fields": {
+            "indicatif": "+670",
+            "nom": "Timor oriental"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 182,
+        "fields": {
+            "indicatif": "+676",
+            "nom": "Tonga"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 183,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "Trinité-et-Tobago"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 184,
+        "fields": {
+            "indicatif": "+216",
+            "nom": "Tunisie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 185,
+        "fields": {
+            "indicatif": "+90",
+            "nom": "Turquie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 186,
+        "fields": {
+            "indicatif": "+688",
+            "nom": "Tuvalu"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 187,
+        "fields": {
+            "indicatif": "+255",
+            "nom": "Tanzanie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 188,
+        "fields": {
+            "indicatif": "+256",
+            "nom": "Ouganda"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 189,
+        "fields": {
+            "indicatif": "+380",
+            "nom": "Ukraine"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 190,
+        "fields": {
+            "indicatif": "+598",
+            "nom": "Uruguay"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 191,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "États-Unis"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 192,
+        "fields": {
+            "indicatif": "+998",
+            "nom": "Ouzbékistan"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 193,
+        "fields": {
+            "indicatif": "+39",
+            "nom": "Vatican"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 194,
+        "fields": {
+            "indicatif": "+1",
+            "nom": "Saint-Vincent-et-les-Grenadines"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 195,
+        "fields": {
+            "indicatif": "+58",
+            "nom": "Venezuela"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 196,
+        "fields": {
+            "indicatif": "+84",
+            "nom": "Viêt Nam"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 197,
+        "fields": {
+            "indicatif": "+678",
+            "nom": "Vanuatu"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 198,
+        "fields": {
+            "indicatif": "+681",
+            "nom": "Wallis-et-Futuna"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 199,
+        "fields": {
+            "indicatif": "+685",
+            "nom": "Samoa"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 200,
+        "fields": {
+            "indicatif": "+967",
+            "nom": "Yémen"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 201,
+        "fields": {
+            "indicatif": "+260",
+            "nom": "Zambie"
+        }
+    },
+    {
+        "model": "eleves.pays",
+        "pk": 202,
+        "fields": {
+            "indicatif": "+263",
+            "nom": "Zimbabwe"
+        }
+    }
+]

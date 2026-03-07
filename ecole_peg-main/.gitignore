@@ -1,0 +1,20 @@
+# Backend
+__pycache__/
+db.sqlite3
+media/
+backend/cours/migrations
+backend/eleves/migrations
+backend/factures/migrations
+backend/media
+backend/.env
+
+# Virtual Environment
+venv/
+
+# Frontend
+node_modules/
+frontend/.next/
+frontend/next-env.d.ts
+
+# IDEs and editors
+.vscode/
